@@ -1,0 +1,25 @@
+Brush-eluki
+June-mi
+June-nem
+May-mi
+Soap-elighluki
+artifact-llu
+beater-elgukuvek
+beater-meng
+bowl-kun
+brush-aqaput
+clothesline-kun
+depends on
+eggbeater-elgukuvek
+holiday-luteng
+holiday-neghagu
+dry milk-meng
+fresh milk-meng
+package-k
+share-eluku
+soap-elighluki
+specimen-a
+yearling-et
+yeast-ak
+yeast-allu
+zipper-elighluki
