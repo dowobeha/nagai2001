@@ -366,7 +366,7 @@ def extractGlosses(input_file: str) -> XigtCorpus:
                                           "In such cases, the underlyingWordsIPA tier contains such underlying forms " +
                                           "in IPA notation with morpheme boundaries marked by dashes.")
 
-    version = Meta(type="version", text="0.0.1")
+    version = Meta(type="version", text="0.0.3")
 
     return XigtCorpus(id="WaghiyiNagai2001", igts=[gloss.toIGT() for gloss in glosses],
                       metadata=[Metadata(metas=[ess, eng, speaker, author, book,
